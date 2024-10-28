@@ -28,7 +28,7 @@ class Hahomoe : MainAPI() {
         }
     }
     private val globalTvType = TvType.NSFW
-    override var mainUrl = "https://haho.moe"
+    override var mainUrl = "https://tiohentai.com/"
     override var name = "Haho moe"
     override val hasQuickSearch = false
     override val hasMainPage = true
